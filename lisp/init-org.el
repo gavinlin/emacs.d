@@ -26,6 +26,7 @@
     org-startup-truncated nil
     capture-annotation-functions '(org-capture-annotation)
     capture-handler-functions '(org-capture-handler)
+    org-refile-targets (quote (("newgtd.org" :maxlevel . 1)))
 )
 
 ;; map keys
