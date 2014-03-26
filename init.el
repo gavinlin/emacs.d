@@ -19,3 +19,4 @@
 (require 'init-smex)
 (require 'init-org)
 (require 'init-ibus)
+(require 'init-c-style)
